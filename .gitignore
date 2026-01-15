@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.Python
+
+# .env file for storing secrets like API keys
+.env
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+lib/
+lib64/
+__pycache__/
+*.pyc
+
+# Test & Coverage
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.cache/
